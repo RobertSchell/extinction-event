@@ -12,6 +12,7 @@ function olStrike(){
 }
 olStrike();
 
+
 //2. bubbling
 //#unordered-dinos - parent id
 let dinoList2 = document.querySelector("#unordered-dinos");
